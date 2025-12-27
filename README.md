@@ -1,51 +1,25 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natty or Not: Explorando IAs Generativas no Mundo Atual 🤖✨
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto desenvolvido como parte do **Lab Natty or Not** da DIO, com o objetivo de explorar o uso de **IAs Generativas** na criação de conteúdos realistas. O desafio propõe refletir sobre até que ponto um conteúdo é “natty” (natural) ou gerado por inteligência artificial, destacando o impacto dessas tecnologias no mundo atual.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT (IA Generativa de Texto)
+- Git e GitHub
+- Markdown
+- Plataforma DIO
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inicialmente, foi realizado o fork do repositório oficial do Lab. Em seguida, utilizei uma IA generativa para criar e refinar os conteúdos do projeto, buscando manter clareza, coerência e um aspecto o mais natural possível. Todo o processo foi documentado e versionado no GitHub.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Repositório versionado no GitHub
+- README estruturado seguindo o template proposto
+- Conteúdo gerado com apoio de IA, mantendo foco em aprendizado e boas práticas
+- Ampliação do portfólio de projetos na área de tecnologia e IA
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+O maior desafio foi encontrar o equilíbrio entre usar a IA como apoio e manter a autenticidade do conteúdo. Esse exercício reforçou a importância do uso consciente e estratégico das IAs Generativas no desenvolvimento de projetos reais.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+<img width="1024" height="1536" alt="ChatGPT Image 27 de dez  de 2025, 16_26_41" src="https://github.com/user-attachments/assets/b79668fe-0fe6-4ead-95cd-ce20aed20cdb" />
